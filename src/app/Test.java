@@ -7,6 +7,9 @@ public class Test {
 		System.out.println("Hel kmlaflo World");
 		System.out.println("PAPA SMURF");
 		System.out.println(fity);
+		int halffity = 25;
+		int totalfity = fity + halffity;
+		System.out.println(fity + " + " + halffity + " = " + totalfity);
 	}
 	
 }
